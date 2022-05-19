@@ -1,0 +1,11 @@
+body
+{
+    background-size:cover;
+}
+
+canvas
+{
+    background-color: white;
+    border: 2px solid black;
+
+}
